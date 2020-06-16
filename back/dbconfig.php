@@ -8,9 +8,9 @@
 	
 	//Les paramètres de connexion
 	$DB_host = "mysql";
-	$DB_user = "userXUM";
-	$DB_pass = "VU2vcgRtw2D1c6Wb";
-	$DB_name = "sampledb";
+	$DB_user = "elyes";
+	$DB_pass = "root";
+	$DB_name = "product";
 
 	try {
 		//ON crée une nouvelle connexion
